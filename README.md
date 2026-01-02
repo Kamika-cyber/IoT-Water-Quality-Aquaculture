@@ -27,4 +27,4 @@ are analyzed to detect unsafe conditions early.
 The stored data is analyzed and visualized using DataLab dashboards to show trends and water quality status.
 
 ## Author
-Student project for IoT Sensor Data Collection & Visualization
+Kamila Issabay
