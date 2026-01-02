@@ -20,8 +20,8 @@ are analyzed to detect unsafe conditions early.
 
 ## Files in This Repository
 - `Ponds.csv` – Dataset
-- `water_quality_analysis.ipynb` – Python analysis and visualizations
-- `IoT_Water_Quality_Report.pdf` – Final project report
+- `Dashboards.ipynb` – Python analysis and visualizations
+- `IoT Sensor Data Collection & Visualization_Kamila.pdf` – Final project report
 
 ## Dashboard
 The stored data is analyzed and visualized using DataLab dashboards to show trends and water quality status.
